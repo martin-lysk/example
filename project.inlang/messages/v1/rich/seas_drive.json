@@ -1,0 +1,38 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.today",
+        "library.inlang.paraglideJs": "app.today"
+    },
+    "id": "rich_seas_drive",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Heute, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Today, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        }
+    ]
+}

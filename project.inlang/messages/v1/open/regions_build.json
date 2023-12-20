@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.json": "footer.linkToDocs",
+        "library.inlang.paraglideJs": "footer.linkToDocs"
+    },
+    "id": "open_regions_build",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Besuchen Sie die <a href=\"https://www.inlang.com\">Dokumentation</a> um mehr über Inlang zu erfahren."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Visit the <a href=\"https://www.inlang.com\">docs</a> to learn more about Inlang."
+                }
+            ]
+        }
+    ]
+}

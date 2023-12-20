@@ -1,0 +1,46 @@
+{
+    "alias": {
+        "plugin.inlang.json": "server.logs.incompleted",
+        "library.inlang.paraglideJs": "server.logs.incompleted"
+    },
+    "id": "famous_clocks_stop",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "id"
+                },
+                {
+                    "type": "Text",
+                    "value": "' hat ein Todo als unvollständig markiert"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "id"
+                },
+                {
+                    "type": "Text",
+                    "value": "' marked a todo as incomplete"
+                }
+            ]
+        }
+    ]
+}

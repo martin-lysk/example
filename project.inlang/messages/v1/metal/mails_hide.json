@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.addTodo",
+        "library.inlang.paraglideJs": "app.addTodo"
+    },
+    "id": "metal_mails_hide",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Add new"
+                }
+            ]
+        }
+    ]
+}

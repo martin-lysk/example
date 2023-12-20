@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.json": "pages.todo.goToHome",
+        "library.inlang.paraglideJs": "pages.todo.goToHome"
+    },
+    "id": "loose_eels_follow",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zurück"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Back"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "alias": {
+        "plugin.inlang.json": "server.logs.loaded",
+        "library.inlang.paraglideJs": "server.logs.loaded"
+    },
+    "id": "light_sheep_smell",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " Todos geladen"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Loaded "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " todos"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.json": "pages.error.404.title",
+        "library.inlang.paraglideJs": "pages.error.404.title"
+    },
+    "id": "cyan_worlds_design",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Seite nicht gefunden"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Page not found"
+                }
+            ]
+        }
+    ]
+}

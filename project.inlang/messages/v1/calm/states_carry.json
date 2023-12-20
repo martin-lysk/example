@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.deleteTodo",
+        "library.inlang.paraglideJs": "app.deleteTodo"
+    },
+    "id": "calm_states_carry",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Delete"
+                }
+            ]
+        }
+    ]
+}
