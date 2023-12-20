@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "languageSwitcher.chooseLanguage",
+        "library.inlang.paraglideJs": "languageSwitcher.chooseLanguage"
+    },
+    "id": "silent_wombats_roll",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Choose language"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "alias": {
+        "plugin.inlang.json": "server.logs.added",
+        "library.inlang.paraglideJs": "server.logs.added"
+    },
+    "id": "clean_toes_turn",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "id"
+                },
+                {
+                    "type": "Text",
+                    "value": "' hat ein Todo erstellt"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "id"
+                },
+                {
+                    "type": "Text",
+                    "value": "' added a new todo"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.json": "description",
+        "library.inlang.paraglideJs": "description"
+    },
+    "id": "thin_gifts_slide",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Dies ist eine einfache Todo-App, die Inlang in einer realen Anwendung zeigt."
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "This is a simple todo app that showcases Inlang in a real world application."
+                }
+            ]
+        }
+    ]
+}

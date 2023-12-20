@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "footer.linkToGithub",
+        "library.inlang.paraglideJs": "footer.linkToGithub"
+    },
+    "id": "five_mice_stay",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "View the source code on Github"
+                }
+            ]
+        }
+    ]
+}

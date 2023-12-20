@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.deleteTodo",
+        "library.inlang.paraglideJs": "app.deleteTodo"
+    },
+    "id": "quick_taxes_take",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Delete"
+                }
+            ]
+        }
+    ]
+}

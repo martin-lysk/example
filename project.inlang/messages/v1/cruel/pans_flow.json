@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.placeholder",
+        "library.inlang.paraglideJs": "app.placeholder"
+    },
+    "id": "cruel_pans_flow",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Add todo..."
+                }
+            ]
+        }
+    ]
+}

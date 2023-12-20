@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.markAsIncomplete",
+        "library.inlang.paraglideJs": "app.markAsIncomplete"
+    },
+    "id": "moody_breads_tie",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mark as incomplete"
+                }
+            ]
+        }
+    ]
+}

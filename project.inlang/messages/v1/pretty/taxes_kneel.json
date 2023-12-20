@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.json": "pages.home.goToTodoApp",
+        "library.inlang.paraglideJs": "pages.home.goToTodoApp"
+    },
+    "id": "pretty_taxes_kneel",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zur Todo-App"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Enter app"
+                }
+            ]
+        }
+    ]
+}

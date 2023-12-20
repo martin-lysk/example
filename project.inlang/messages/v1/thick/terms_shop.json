@@ -1,0 +1,38 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.nrOfTodos",
+        "library.inlang.paraglideJs": "app.nrOfTodos"
+    },
+    "id": "thick_terms_shop",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " Aufgaben"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "VariableReference",
+                    "name": "count"
+                },
+                {
+                    "type": "Text",
+                    "value": " tasks"
+                }
+            ]
+        }
+    ]
+}

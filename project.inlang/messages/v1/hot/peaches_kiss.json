@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.markAsDone",
+        "library.inlang.paraglideJs": "app.markAsDone"
+    },
+    "id": "hot_peaches_kiss",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mark as done"
+                }
+            ]
+        }
+    ]
+}
