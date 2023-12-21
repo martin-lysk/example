@@ -1,0 +1,46 @@
+{
+    "alias": {
+        "plugin.inlang.json": "server.logs.incompleted",
+        "library.inlang.paraglideJs": "server.logs.incompleted"
+    },
+    "id": "adjective#48_animal#194_verb#22_adverb#188",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "id"
+                },
+                {
+                    "type": "Text",
+                    "value": "' hat ein Todo als unvollständig markiert"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "id"
+                },
+                {
+                    "type": "Text",
+                    "value": "' marked a todo as incomplete"
+                }
+            ]
+        }
+    ]
+}

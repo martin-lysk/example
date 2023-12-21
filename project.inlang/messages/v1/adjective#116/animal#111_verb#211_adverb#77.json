@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.addTodo",
+        "library.inlang.paraglideJs": "app.addTodo"
+    },
+    "id": "adjective#116_animal#111_verb#211_adverb#77",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Add new"
+                }
+            ]
+        }
+    ]
+}

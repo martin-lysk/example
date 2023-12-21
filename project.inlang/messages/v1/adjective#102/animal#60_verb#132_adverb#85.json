@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.json": "footer.madeBy",
+        "library.inlang.paraglideJs": "footer.madeBy"
+    },
+    "id": "adjective#102_animal#60_verb#132_adverb#85",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mit ❤️ von Inlang erstellt"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Made with ❤️ by Inlang"
+                }
+            ]
+        }
+    ]
+}

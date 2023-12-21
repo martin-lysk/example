@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.markAsIncomplete",
+        "library.inlang.paraglideJs": "app.markAsIncomplete"
+    },
+    "id": "adjective#183_animal#24_verb#188_adverb#26",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mark as incomplete"
+                }
+            ]
+        }
+    ]
+}

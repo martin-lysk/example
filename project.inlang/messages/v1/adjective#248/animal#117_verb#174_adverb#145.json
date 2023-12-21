@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "footer.linkToGithub",
+        "library.inlang.paraglideJs": "footer.linkToGithub"
+    },
+    "id": "adjective#248_animal#117_verb#174_adverb#145",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "View the source code on Github"
+                }
+            ]
+        }
+    ]
+}

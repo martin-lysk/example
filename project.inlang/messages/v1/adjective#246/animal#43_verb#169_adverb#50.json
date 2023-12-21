@@ -1,0 +1,46 @@
+{
+    "alias": {
+        "plugin.inlang.json": "server.error.missingField",
+        "library.inlang.paraglideJs": "server.error.missingField"
+    },
+    "id": "adjective#246_animal#43_verb#169_adverb#50",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Das Feld '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "field"
+                },
+                {
+                    "type": "Text",
+                    "value": "' ist nicht gesetzt"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "The field '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "field"
+                },
+                {
+                    "type": "Text",
+                    "value": "' is missing"
+                }
+            ]
+        }
+    ]
+}
