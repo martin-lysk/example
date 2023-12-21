@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.json": "server.error.generic",
+        "library.inlang.paraglideJs": "server.error.generic"
+    },
+    "id": "adjective#103_animal#146_verb#144_adverb#20",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Etwas ist schief gelaufen"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Something went wrong"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.markAsDone",
+        "library.inlang.paraglideJs": "app.markAsDone"
+    },
+    "id": "adjective#0_animal#214_verb#64_adverb#20",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mark as done"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.today",
+        "library.inlang.paraglideJs": "app.today"
+    },
+    "id": "adjective#98_animal#51_verb#163_adverb#3",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Heute, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Today, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
+                }
+            ]
+        }
+    ]
+}

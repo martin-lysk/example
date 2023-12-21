@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "languageSwitcher.chooseLanguage",
+        "library.inlang.paraglideJs": "languageSwitcher.chooseLanguage"
+    },
+    "id": "adjective#81_animal#89_verb#64_adverb#85",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Choose language"
+                }
+            ]
+        }
+    ]
+}

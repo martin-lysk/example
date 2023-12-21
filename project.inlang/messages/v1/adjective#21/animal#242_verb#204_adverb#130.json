@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.json": "title",
+        "library.inlang.paraglideJs": "title"
+    },
+    "id": "adjective#21_animal#242_verb#204_adverb#130",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Meine tolle Todo-App"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "My Awesome Todo App2"
+                }
+            ]
+        }
+    ]
+}

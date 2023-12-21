@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.deleteTodo",
+        "library.inlang.paraglideJs": "app.deleteTodo"
+    },
+    "id": "adjective#198_animal#73_verb#102_adverb#25",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Delete"
+                }
+            ]
+        }
+    ]
+}

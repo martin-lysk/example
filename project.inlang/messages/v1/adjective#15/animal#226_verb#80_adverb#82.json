@@ -1,0 +1,46 @@
+{
+    "alias": {
+        "plugin.inlang.json": "server.logs.completed",
+        "library.inlang.paraglideJs": "server.logs.completed"
+    },
+    "id": "adjective#15_animal#226_verb#80_adverb#82",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "id"
+                },
+                {
+                    "type": "Text",
+                    "value": "' hat ein Todo als erledigt markiert"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "id"
+                },
+                {
+                    "type": "Text",
+                    "value": "' marked a todo as done"
+                }
+            ]
+        }
+    ]
+}
