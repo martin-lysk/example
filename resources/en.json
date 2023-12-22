@@ -1,43 +1,42 @@
 {
-	"title": "My Awesome Todo App",
-	"description": "This is a simple todo app that showcases Inlang in a real world application.",
 	"app": {
+		"markAsDone": "Mark as doneasdasd",
+		"placeholder": "Add todo...",
 		"today": "Today, {date}",
 		"nrOfTodos": "{count} tasks",
-		"markAsDone": "Mark as done",
+		"addTodo": "Add new",
 		"markAsIncomplete": "Mark as incomplete",
-		"deleteTodo": "Delete",
-		"placeholder": "Add todo...",
-		"addTodo": "Add new"
+		"deleteTodo": "Delete"
+	},
+	"server": {
+		"logs": {
+			"added": "'{id}' added a new todo",
+			"completed": "'{id}' marked a todo as done",
+			"incompleted": "'{id}' marked a todo as incomplete",
+			"deleted": "'{id}' deleted a todo",
+			"loaded": "Loaded {count} todos"
+		},
+		"error": {
+			"incorrectField": "The field '{field}' has an invalid data type",
+			"generic": "Something went wrong",
+			"missingField": "The field '{field}' is missing"
+		}
 	},
 	"pages": {
 		"home": {
 			"goToTodoApp": "Enter app"
-		},
-		"todo": {
-			"goToHome": "Back"
 		},
 		"error": {
 			"404": {
 				"title": "Page not found"
 			},
 			"cta": "Click here to return to the homepage"
-		}
-	},
-	"server": {
-		"error": {
-			"generic": "Something went wrong",
-			"missingField": "The field '{field}' is missing",
-			"incorrectField": "The field '{field}' has an invalid data type"
 		},
-		"logs": {
-			"loaded": "Loaded {count} todos",
-			"added": "'{id}' added a new todo",
-			"deleted": "'{id}' deleted a todo",
-			"completed": "'{id}' marked a todo as done",
-			"incompleted": "'{id}' marked a todo as incomplete"
+		"todo": {
+			"goToHome": "Back"
 		}
 	},
+	"title": "My Awesome Todo App",
 	"languageSwitcher": {
 		"chooseLanguage": "Choose language"
 	},
@@ -45,5 +44,6 @@
 		"madeBy": "Made with ❤️ by Inlang",
 		"linkToDocs": "Visit the <a href=\"https://www.inlang.com\">docs</a> to learn more about Inlang.",
 		"linkToGithub": "View the source code on Github"
-	}
+	},
+	"description": "This is a simple todo app that showcases Inlang in a real world application."
 }
