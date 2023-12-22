@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "footer.linkToGithub",
+        "library.inlang.paraglideJs": "footer.linkToGithub"
+    },
+    "id": "witty_lamb_quiz_inadequate",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "View the source code on Github"
+                }
+            ]
+        }
+    ]
+}

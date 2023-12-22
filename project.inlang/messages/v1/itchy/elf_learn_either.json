@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.json": "footer.madeBy",
+        "library.inlang.paraglideJs": "footer.madeBy"
+    },
+    "id": "itchy_elf_learn_either",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mit ❤️ von Inlang erstellt"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Made with ❤️ by Inlang"
+                }
+            ]
+        }
+    ]
+}

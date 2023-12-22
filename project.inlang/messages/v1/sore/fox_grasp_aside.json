@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.deleteTodo",
+        "library.inlang.paraglideJs": "app.deleteTodo"
+    },
+    "id": "sore_fox_grasp_aside",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Delete"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.json": "title",
+        "library.inlang.paraglideJs": "title"
+    },
+    "id": "bland_walrus_soar_hasti",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Meine tolle Todo-App"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "My Awesome Todo App"
+                }
+            ]
+        }
+    ]
+}

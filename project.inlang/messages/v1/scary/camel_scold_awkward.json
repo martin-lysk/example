@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.markAsIncomplete",
+        "library.inlang.paraglideJs": "app.markAsIncomplete"
+    },
+    "id": "scary_camel_scold_awkward",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Mark as incomplete"
+                }
+            ]
+        }
+    ]
+}
