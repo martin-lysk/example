@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.json": "pages.todo.goToHome",
+        "library.inlang.paraglideJs": "pages.todo.goToHome"
+    },
+    "id": "these_tuna_shine_queer",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Zurück"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Back"
+                }
+            ]
+        }
+    ]
+}

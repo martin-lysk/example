@@ -1,0 +1,20 @@
+{
+    "alias": {
+        "plugin.inlang.json": "app.addTodo",
+        "library.inlang.paraglideJs": "app.addTodo"
+    },
+    "id": "legal_jay_stop_doubtful",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Add newasd"
+                }
+            ]
+        }
+    ]
+}

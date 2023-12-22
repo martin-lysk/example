@@ -1,0 +1,46 @@
+{
+    "alias": {
+        "plugin.inlang.json": "server.logs.deleted",
+        "library.inlang.paraglideJs": "server.logs.deleted"
+    },
+    "id": "most_marmot_shine_hasti",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "id"
+                },
+                {
+                    "type": "Text",
+                    "value": "' hat ein Todo gelöscht"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "'"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "id"
+                },
+                {
+                    "type": "Text",
+                    "value": "' deleted a todo"
+                }
+            ]
+        }
+    ]
+}

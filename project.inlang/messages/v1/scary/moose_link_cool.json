@@ -1,0 +1,30 @@
+{
+    "alias": {
+        "plugin.inlang.json": "pages.error.cta",
+        "library.inlang.paraglideJs": "pages.error.cta"
+    },
+    "id": "scary_moose_link_cool",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Klicken Sie hier, um zur Startseite zurückzukehren"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Click here to return to the homepage"
+                }
+            ]
+        }
+    ]
+}
