@@ -1,49 +1,27 @@
 {
-	"title": "My Awesome Todo App",
-	"description": "This is a simple todo app that showcases Inlang in a real world application.",
-	"app": {
-		"today": "Today, {date}",
-		"nrOfTodos": "{count} tasks",
-		"markAsDone": "Mark as done",
-		"markAsIncomplete": "Mark as incomplete",
-		"deleteTodo": "Delete",
-		"placeholder": "Add todo...",
-		"addTodo": "Add new"
-	},
-	"pages": {
-		"home": {
-			"goToTodoApp": "Enter app"
-		},
-		"todo": {
-			"goToHome": "Back"
-		},
-		"error": {
-			"404": {
-				"title": "Page not found"
-			},
-			"cta": "Click here to return to the homepage"
-		}
-	},
-	"server": {
-		"error": {
-			"generic": "Something went wrong",
-			"missingField": "The field '{field}' is missing",
-			"incorrectField": "The field '{field}' has an invalid data type"
-		},
-		"logs": {
-			"loaded": "Loaded {count} todos",
-			"added": "'{id}' added a new todo",
-			"deleted": "'{id}' deleted a todo",
-			"completed": "'{id}' marked a todo as done",
-			"incompleted": "'{id}' marked a todo as incomplete"
-		}
-	},
-	"languageSwitcher": {
-		"chooseLanguage": "Choose language"
-	},
-	"footer": {
-		"madeBy": "Made with ❤️ by Inlang",
-		"linkToDocs": "Visit the <a href=\"https://www.inlang.com\">docs</a> to learn more about Inlang.",
-		"linkToGithub": "View the source code on Github"
-	}
+	"able_sparrow_drum_anywhere": "Mark as doneasdsd",
+	"aloof_wasp_bake_parallel": "'{id}' added a new todo",
+	"awful_thrush_fear_dreami": "'{id}' marked a todo as done",
+	"best_squid_pat_light": "Enter app",
+	"bland_walrus_soar_hasti": "My Awesome Todo App",
+	"cute_gorilla_pick_no": "Add todo...",
+	"dry_caracal_liven_hopeless": "The field '{field}' has an invalid data type",
+	"due_sawfish_bloom_mechanical": "'{id}' marked a todo as incomplete",
+	"good_gorilla_drum_either": "Choose language",
+	"icy_dove_plead_across": "Today, {date}",
+	"itchy_elf_learn_either": "Made with ❤️ by Inlang",
+	"jolly_monkey_mend_anywhere": "Something went wrong",
+	"known_gerenuk_buy_afterwards": "Visit the <a href=\"https://www.inlang.com\">docs</a> to learn more about Inlang.",
+	"least_carp_bond_desperate": "{count} tasks",
+	"legal_jay_stop_doubtful": "Add new",
+	"most_marmot_shine_hasti": "'{id}' deleted a todo",
+	"plump_pika_trust_everywhere": "Loaded {count} todos",
+	"scary_camel_scold_awkward": "Mark as incomplete",
+	"scary_moose_link_cool": "Click here to return to the homepage",
+	"sore_fox_grasp_aside": "Delete",
+	"stock_cat_hunt_easi": "This is a simple todo app that showcases Inlang in a real world application.",
+	"these_tuna_shine_queer": "Back",
+	"tired_mayfly_renew_just": "Page not found",
+	"wild_cuckoo_purr_careless": "The field '{field}' is missing",
+	"witty_lamb_quiz_inadequate": "View the source code on Github"
 }
