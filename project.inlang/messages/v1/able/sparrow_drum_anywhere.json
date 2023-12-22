@@ -7,12 +7,22 @@
     "selectors": [],
     "variants": [
         {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "ii"
+                }
+            ]
+        },
+        {
             "languageTag": "en",
             "match": [],
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Mark as doneki"
+                    "value": "Mark as done"
                 }
             ]
         }
