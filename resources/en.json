@@ -1,6 +1,6 @@
 {
 	"app": {
-		"markAsDone": "Mark as donessssasdsadasdsadasdsd asdasdasdassadsadsaddsadasdsadjasdasdasdasdsadkkkasasdkkkasdasdasdasdsdasdasdsadasd",
+		"markAsDone": "Mark as done",
 		"placeholder": "Add todo...",
 		"today": "Today, {date}",
 		"nrOfTodos": "{count} tasks",
