@@ -7,6 +7,16 @@
     "selectors": [],
     "variants": [
         {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "asdasd"
+                }
+            ]
+        },
+        {
             "languageTag": "en",
             "match": [],
             "pattern": [
