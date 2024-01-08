@@ -1,9 +1,9 @@
 {
     "alias": {
-        "plugin.inlang.json": "title",
-        "library.inlang.paraglideJs": "title"
+        "plugin.inlang.json": "pages.error.cta",
+        "library.inlang.paraglideJs": "pages.error.cta"
     },
-    "id": "bland_walrus_soar_hasti",
+    "id": "scary_moose_link_cool",
     "selectors": [],
     "variants": [
         {
@@ -12,7 +12,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Meine tolle Todo-App"
+                    "value": "Klicken Sie hier, um zur Startseite zurückzukehren"
                 }
             ]
         },
@@ -22,7 +22,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "My Awesome Todo Appssssd"
+                    "value": "Click here to return to the homepage"
                 }
             ]
         }

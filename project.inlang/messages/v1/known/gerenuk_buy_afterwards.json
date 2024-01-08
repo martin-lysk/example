@@ -1,9 +1,9 @@
 {
     "alias": {
-        "plugin.inlang.json": "title",
-        "library.inlang.paraglideJs": "title"
+        "plugin.inlang.json": "footer.linkToDocs",
+        "library.inlang.paraglideJs": "footer.linkToDocs"
     },
-    "id": "bland_walrus_soar_hasti",
+    "id": "known_gerenuk_buy_afterwards",
     "selectors": [],
     "variants": [
         {
@@ -12,7 +12,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Meine tolle Todo-App"
+                    "value": "Besuchen Sie die <a href=\"https://www.inlang.com\">Dokumentation</a> um mehr über Inlang zu erfahren."
                 }
             ]
         },
@@ -22,7 +22,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "My Awesome Todo Appssssd"
+                    "value": "Visit the <a href=\"https://www.inlang.com\">docs</a> to learn more about Inlang."
                 }
             ]
         }

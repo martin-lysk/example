@@ -1,0 +1,46 @@
+{
+    "alias": {
+        "plugin.inlang.json": "server.error.incorrectField",
+        "library.inlang.paraglideJs": "server.error.incorrectField"
+    },
+    "id": "dry_caracal_liven_hopeless",
+    "selectors": [],
+    "variants": [
+        {
+            "languageTag": "de",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "Das Feld '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "field"
+                },
+                {
+                    "type": "Text",
+                    "value": "' hat einen ungültigen Datentyp"
+                }
+            ]
+        },
+        {
+            "languageTag": "en",
+            "match": [],
+            "pattern": [
+                {
+                    "type": "Text",
+                    "value": "The field '"
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "field"
+                },
+                {
+                    "type": "Text",
+                    "value": "' has an invalid data type"
+                }
+            ]
+        }
+    ]
+}

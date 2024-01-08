@@ -1,9 +1,9 @@
 {
     "alias": {
-        "plugin.inlang.json": "title",
-        "library.inlang.paraglideJs": "title"
+        "plugin.inlang.json": "description",
+        "library.inlang.paraglideJs": "description"
     },
-    "id": "bland_walrus_soar_hasti",
+    "id": "stock_cat_hunt_easi",
     "selectors": [],
     "variants": [
         {
@@ -12,7 +12,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Meine tolle Todo-App"
+                    "value": "Dies ist eine einfache Todo-App, die Inlang in einer realen Anwendung zeigt."
                 }
             ]
         },
@@ -22,7 +22,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "My Awesome Todo Appssssd"
+                    "value": "This is a simple todo app that showcases Inlang in a real world application."
                 }
             ]
         }

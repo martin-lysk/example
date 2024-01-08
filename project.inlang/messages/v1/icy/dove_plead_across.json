@@ -1,9 +1,9 @@
 {
     "alias": {
-        "plugin.inlang.json": "title",
-        "library.inlang.paraglideJs": "title"
+        "plugin.inlang.json": "app.today",
+        "library.inlang.paraglideJs": "app.today"
     },
-    "id": "bland_walrus_soar_hasti",
+    "id": "icy_dove_plead_across",
     "selectors": [],
     "variants": [
         {
@@ -12,7 +12,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Meine tolle Todo-App"
+                    "value": "Heute, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
                 }
             ]
         },
@@ -22,7 +26,11 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "My Awesome Todo Appssssd"
+                    "value": "Today, "
+                },
+                {
+                    "type": "VariableReference",
+                    "name": "date"
                 }
             ]
         }

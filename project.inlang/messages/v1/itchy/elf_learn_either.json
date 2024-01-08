@@ -1,9 +1,9 @@
 {
     "alias": {
-        "plugin.inlang.json": "title",
-        "library.inlang.paraglideJs": "title"
+        "plugin.inlang.json": "footer.madeBy",
+        "library.inlang.paraglideJs": "footer.madeBy"
     },
-    "id": "bland_walrus_soar_hasti",
+    "id": "itchy_elf_learn_either",
     "selectors": [],
     "variants": [
         {
@@ -12,7 +12,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "Meine tolle Todo-App"
+                    "value": "Mit ❤️ von Inlang erstellt"
                 }
             ]
         },
@@ -22,7 +22,7 @@
             "pattern": [
                 {
                     "type": "Text",
-                    "value": "My Awesome Todo Appssssd"
+                    "value": "Made with ❤️ by Inlang"
                 }
             ]
         }
