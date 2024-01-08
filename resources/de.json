@@ -6,7 +6,7 @@
 	},
 	"server": {
 		"logs": {
-			"added": "'{id}' hat ein Todo erstellt",
+			"added": "'{id}' hat ein Todo erstelltasdasdasdasd",
 			"completed": "'{id}' hat ein Todo als erledigt markiert",
 			"incompleted": "'{id}' hat ein Todo als unvollständig markiert",
 			"deleted": "'{id}' hat ein Todo gelöscht",

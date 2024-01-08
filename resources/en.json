@@ -11,7 +11,7 @@
 	"server": {
 		"logs": {
 			"added": "'{id}' added a new todo",
-			"completed": "'{id}' marked a todo as done",
+			"completed": "'{id}' marked a todo as doneasdasdsada",
 			"incompleted": "'{id}' marked a todo as incomplete",
 			"deleted": "'{id}' deleted a todo",
 			"loaded": "Loaded {count} todos"
@@ -24,7 +24,7 @@
 	},
 	"pages": {
 		"home": {
-			"goToTodoApp": "Enter app"
+			"goToTodoApp": "Enter appasdasdasdasd"
 		},
 		"error": {
 			"404": {
